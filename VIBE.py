@@ -334,7 +334,7 @@ def main() -> None:
 
     print(f"Loaded {len(students)} student record(s).")
     while True:
-        print("\nStudent Record Manager")
+        print("\nStudent Grade Calculator")
         print("1. Add student and test scores")
         print("2. Update a test score")
         print("3. Display all students")
@@ -364,7 +364,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-class S:
-    ...
-
-S
